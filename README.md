@@ -4,7 +4,7 @@ We have made a burger building website, which allows you to build your own cutom
 
 The Tech stack used by us is: 
 
-Frontend: Html, CSS, ReactJS
+Frontend: Html, CSS, ReactJS, Bootstrap, Tailwind
 
 Backend: NodeJS, ExpressJS, MongoDB
 
